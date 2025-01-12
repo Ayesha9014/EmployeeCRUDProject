@@ -1,0 +1,102 @@
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\hp\Desktop\React Work\FullProject\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll

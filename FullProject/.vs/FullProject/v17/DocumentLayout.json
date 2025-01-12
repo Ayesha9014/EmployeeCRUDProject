@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5623D0C2-BB90-4048-9FD2-4BF3C36EA783}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\serverlibrary\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5623D0C2-BB90-4048-9FD2-4BF3C36EA783}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD90470-90B3-4CCF-975A-19F9EE2D66AE}|Server\\Server.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\server\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD90470-90B3-4CCF-975A-19F9EE2D66AE}|Server\\Server.csproj|solutionrelative:server\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD90470-90B3-4CCF-975A-19F9EE2D66AE}|Server\\Server.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD90470-90B3-4CCF-975A-19F9EE2D66AE}|Server\\Server.csproj|solutionrelative:server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5623D0C2-BB90-4048-9FD2-4BF3C36EA783}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\serverlibrary\\migrations\\20241231033414_second-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5623D0C2-BB90-4048-9FD2-4BF3C36EA783}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\migrations\\20241231033414_second-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD90470-90B3-4CCF-975A-19F9EE2D66AE}|Server\\Server.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCD90470-90B3-4CCF-975A-19F9EE2D66AE}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5623D0C2-BB90-4048-9FD2-4BF3C36EA783}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5623D0C2-BB90-4048-9FD2-4BF3C36EA783}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\baselibrary\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\baselibrary\\entities\\overtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\overtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\baselibrary\\entities\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\baselibrary\\entities\\vacationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\vacationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\baselibrary\\entities\\sanction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\sanction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\react work\\fullproject\\baselibrary\\entities\\sanctiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895D80E-C63C-4E73-97FA-E70D0D577E3A}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\sanctiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\DepartmentDialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\AccountPages\\LoginPage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\ClientLibrary\\Sevices\\Contracts\\IUserAccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\ServerLibrary\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\ServerLibrary\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:39:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\Server\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\GenericController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\Server\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "Server\\Controllers\\GenericController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:39:42.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\Server\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\Server\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Server\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:39:38.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241231033414_second-create.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\ServerLibrary\\Migrations\\20241231033414_second-create.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Migrations\\20241231033414_second-create.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\ServerLibrary\\Migrations\\20241231033414_second-create.cs",
+              "RelativeToolTip": "ServerLibrary\\Migrations\\20241231033414_second-create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:34:15.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T03:31:57.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:31:21.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Doctor.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:03:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Overtime.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Overtime.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Overtime.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Overtime.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Overtime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:28:36.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VacationType.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\VacationType.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\VacationType.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\VacationType.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\VacationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:14:19.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vacation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Vacation.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Vacation.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Vacation.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Vacation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:11:31.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanctionType.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\SanctionType.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\SanctionType.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\SanctionType.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\SanctionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:32:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sanction.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Sanction.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Sanction.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\React Work\\FullProject\\BaseLibrary\\Entities\\Sanction.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Sanction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:32:30.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddOrUpdateEmployeePage.razor",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T17:14:50.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentDialog.razor",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\DepartmentDialog.razor",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\DepartmentDialog.razor",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\DepartmentDialog.razor",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\DepartmentDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T15:13:25.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeneralDepartmentDialog.razor",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T14:41:28.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\_Imports.razor",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\_Imports.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:48:40.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\AccountPages\\LoginPage.razor",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\AccountPages\\LoginPage.razor",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\AccountPages\\LoginPage.razor",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Pages\\AccountPages\\LoginPage.razor",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAF8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:47:55.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Program.cs",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\Client\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:47:32.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\ClientLibrary\\Sevices\\Contracts\\IUserAccountService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\ClientLibrary\\Sevices\\Contracts\\IUserAccountService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\ClientLibrary\\Sevices\\Contracts\\IUserAccountService.cs",
+              "RelativeToolTip": "..\\..\\ReactSubmit\\ReactSubmit\\Employee Management\\FullProject\\ClientLibrary\\Sevices\\Contracts\\IUserAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:47:23.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

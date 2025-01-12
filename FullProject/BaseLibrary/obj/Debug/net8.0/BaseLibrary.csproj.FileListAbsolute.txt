@@ -1,0 +1,72 @@
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\7h1min\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\employee management\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\userpc\Desktop\ProjectSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\ReactSubmit\ReactSubmit\Employee Management\FullProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\React Work\FullProject\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
